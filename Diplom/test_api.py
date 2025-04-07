@@ -3,7 +3,7 @@ import requests
 import pytest
 
 
-API_URL = "https://www.kinopoisk.ru/"  
+API_URL = "https://kinopoiskapiunofficial.tech/api"  
 
 
 

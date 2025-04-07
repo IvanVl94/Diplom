@@ -61,4 +61,3 @@ def test_user_login_page(browser):
     assert browser.find_element(By.NAME, "login")  # Вести свой логин
     assert browser.find_element(By.NAME, "password") # Вести свой пароль 
 
-browser.quit()
